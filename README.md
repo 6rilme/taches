@@ -1,6 +1,6 @@
-<a href="https://egghead.io/series/react-flux-architecture">![egghead react flux architecture](https://d2eip9sf3oo6c2.cloudfront.net/series/covers/000/000/005/full/react_flux_series_banner_2.png?1404147531)</a>
+## Gestion de tâches
 
-## Egghead React Flux Example App
+d'après https://github.com/eggheadio/egghead-react-flux-example
 
 This app requires node.js!
 
